@@ -10,10 +10,7 @@
 ahamedhusan/ahamedhusan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-Here's an example of the content for a Weather Dashboard README file. This README is for a hypothetical weather dashboard project, including its purpose, setup instructions, and usage details.
-
+<!---CODING___
 Weather Dashboard
 Description
 The Weather Dashboard is a web-based application that allows users to search for weather conditions of various cities across the globe. It displays current weather data, a 5-day forecast, and other useful weather-related information such as humidity, wind speed, and UV index. This project leverages third-party APIs to gather weather data and display it in a user-friendly interface.
